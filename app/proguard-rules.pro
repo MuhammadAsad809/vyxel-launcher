@@ -1,0 +1,4 @@
+-keepattributes *Annotation*, InnerClasses
+-dontwarn kotlinx.serialization.**
+-keep,includedescriptorclasses class com.vyxel.launcher.**$$serializer { *; }
+-keep class com.vyxel.launcher.core.model.** { *; }

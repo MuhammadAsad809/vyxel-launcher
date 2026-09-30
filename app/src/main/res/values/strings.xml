@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vyxel Launcher</string>
+    <string name="notification_listener_label">Vyxel notification shade</string>
+    <string name="device_admin_description">Allows Vyxel to lock the screen from a custom gesture.</string>
+</resources>

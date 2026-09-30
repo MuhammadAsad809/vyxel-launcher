@@ -1,0 +1,14 @@
+*.jks
+*.keystore
+.vyxel-signing-meta
+keystore.properties
+.gradle/
+.idea/
+.cxx/
+local.properties
+**/build/
+captures/
+*.iml
+.DS_Store
+*.jks
+keystore.b64
